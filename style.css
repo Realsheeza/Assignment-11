@@ -1,0 +1,27 @@
+.upper{
+    width: 600px;
+    height:300px;
+    border: 2px solid black;
+}
+.a,.c{
+    width: 600px;
+    height: 100px;
+    background-color: #02a9ce;
+}
+.b{
+    width: 600px;
+    height: 100px;
+    background-color: #fddb23;
+}
+.triangle-bahamas {
+        position: absolute;
+        left: 10;
+        top: 2;
+        width: 0;
+        height: 0;
+        border-top: 150px solid transparent;
+        border-bottom: 150px solid transparent;
+        border-left: 230px solid #000000 /* Triangle color and size */
+      }
+
+  
